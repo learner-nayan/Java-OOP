@@ -8,7 +8,6 @@ class Twelve{
 
         System.out.println("Name: " + args[0] + "\nSurname: " + args[1]);
 
-
         System.out.println("Name: " + name + "\nSurname: " + surname);
 
     }
